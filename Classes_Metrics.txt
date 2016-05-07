@@ -1,0 +1,39 @@
+Calculator:
+ *WMC: 6
+ *DIT: 1
+ *NOC: 0
+ *CBO: 1
+ *RFC: 10
+ *LCOM: 15
+ *Ca: 0
+ *Ce: 1
+ *NPM: 5
+ *LCOM3: 2.0000
+ *LOC: 63
+ *DAM: 0.0000
+ *MOA: 0
+ *MFA: 0.0000
+ *CAM: 0.9167
+ *IC: 0
+ *CBM: 0
+ *AMC: 0.5000
+
+InvalidInputException:
+ *WMC: 2
+ *DIT: 3
+ *NOC: 0
+ *CBO: 1
+ *RFC: 3
+ *LCOM: 1
+ *Ca: 1
+ *Ce: 0
+ *NPM: 2
+ *LCOM3: 2.0000
+ *LOC: 10
+ *DAM: 0.0000
+ *MOA: 0
+ *MFA: 1.0000
+ *CAM: 0.7500
+ *IC: 0
+ *CBM: 0
+ *AMC: 4.0000
